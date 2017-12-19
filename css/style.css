@@ -1,0 +1,12 @@
+/*!
+ * RevolveHost Website stylesheet
+ * Developed in-house by RevolveHost Management
+ */
+
+.hero-title {
+    font-size: 60px;
+}
+.bg-primary {
+    background-color: #1d60a4!important;
+}
+/* I know this is gay, fix it yourself */

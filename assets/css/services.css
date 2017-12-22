@@ -1,0 +1,128 @@
+.wrap-feature-24 {
+  margin-top: 60px;
+}
+
+.wrap-feature-24 .card {
+  overflow: hidden;
+  -o-transition: 0.3s ease-out;
+  transition: 0.3s ease-out;
+  -webkit-transition: 0.3s ease-out;
+}
+
+.wrap-feature-24 .card:hover {
+  -ms-transform: translateY(-10px);
+  transform: translateY(-10px);
+  -webkit-transform: translateY(-10px);
+}
+
+.wrap-feature-24 .service-24 {
+  text-align: center;
+  padding: 40px 0;
+  display: block;
+}
+
+.wrap-feature-24 .service-24 i {
+  background: #07d79c;
+  background: -webkit-linear-gradient(legacy-direction(to right), #07d79c 0%, #1dc8cd 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#07d79c), to(#1dc8cd));
+  background: -webkit-linear-gradient(left, #07d79c 0%, #1dc8cd 100%);
+  background: -o-linear-gradient(left, #07d79c 0%, #1dc8cd 100%);
+  background: linear-gradient(to right, #07d79c 0%, #1dc8cd 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-size: 50px;
+}
+
+.wrap-feature-24 .service-24 .ser-title {
+  margin: 10px 0 5px;
+  font-weight: 500;
+}
+
+.wrap-feature-24 .service-24:hover, .wrap-feature-24 .service-24:focus {
+  background: #07d79c;
+  background: -webkit-linear-gradient(legacy-direction(to right), #07d79c 0%, #1dc8cd 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#07d79c), to(#1dc8cd));
+  background: -webkit-linear-gradient(left, #07d79c 0%, #1dc8cd 100%);
+  background: -o-linear-gradient(left, #07d79c 0%, #1dc8cd 100%);
+  background: linear-gradient(to right, #07d79c 0%, #1dc8cd 100%);
+}
+
+.wrap-feature-24 .service-24:hover i, .wrap-feature-24 .service-24:hover .ser-title, .wrap-feature-24 .service-24:focus i, .wrap-feature-24 .service-24:focus .ser-title {
+  color: #ffffff;
+  text-fill-color: #ffffff;
+  -webkit-text-fill-color: #ffffff;
+}
+
+.wrap-feature-24 .service-24:hover i, .wrap-feature-24 .service-24:focus i {
+  margin-bottom: 5px;
+}
+
+.wrap-pricingtabs-box {
+  margin-top: 60px; }
+  .wrap-pricingtabs-box .pt-tab {
+    display: table;
+    width: 100%; }
+    .wrap-pricingtabs-box .pt-tab > a {
+      display: table-cell;
+      border: 1px solid rgba(120, 130, 140, 0.13);
+      text-align: center;
+      padding: 15px 10px;
+      background: #f4f8fa;
+      color: #263238; }
+      .wrap-pricingtabs-box .pt-tab > a.active {
+        border-bottom-color: transparent;
+        background: #ffffff;
+        font-weight: 400; }
+  .wrap-pricingtabs-box .tab-pane {
+    padding: 60px 0; }
+
+/*******************
+Pricing 1
+*******************/
+.pricing1 .card {
+  -webkit-transition: 0.1s;
+  -o-transition: 0.1s;
+  transition: 0.1s; }
+    .pricing1 .card:hover {
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    -webkit-font-smoothing: antialiased; }
+
+.pricing1 .badge {
+  top: -13px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 100px;
+  margin: 0 auto; }
+
+.pricing1 .title {
+  margin-top: 20px;
+  font-weight: 500;
+  margin-bottom: 5px; }
+
+.pricing1 .subtitle {
+      font-size: 14px; }
+
+.pricing1 .pricing {
+  margin: 20px 0; }
+  .pricing1 .pricing sup {
+    font-size: 18px;
+    top: -20px; }
+  .pricing1 .pricing .display-5 {
+    color: #263238; }
+  .pricing1 .pricing .yearly {
+    display: none; }
+
+.pricing1 .list-inline {
+  margin-top: 30px; }
+  .pricing1 .list-inline li {
+    padding: 8px 0;
+    display: block; }
+
+.pricing1 .bottom-btn {
+      position: relative;
+      bottom: 0px; }

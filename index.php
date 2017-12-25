@@ -252,8 +252,17 @@ $page_title = 'Home';
                     <!-- Column -->
                     <div class="col-lg-3 col-md-6">
                       <div class="card card-shadow">
+                        <a href="dedicated.php" class="service-24"> <i class="fas fa-server fa-3x" style="color:#3e4555"></i>
+                          <h6 class="ser-title">Dedicated Servers <br>&nbsp;</h6>
+                        </a>
+                      </div>
+                    </div>
+                    <!-- Column -->
+                    <!-- Column -->
+                    <div class="col-lg-3 col-md-6">
+                      <div class="card card-shadow">
                         <a href="discord-bots.php" class="service-24"> <i class="fab fa-discord fa-3x" style="color:#3e4555"></i>
-                          <h6 class="ser-title">Discord Bot Hosting <br>&nbsp;</h6>
+                          <h6 class="ser-title">Discord Bot Hosting <br>(Coming Soon)</h6>
                         </a>
                       </div>
                     </div>
@@ -262,7 +271,7 @@ $page_title = 'Home';
                     <div class="col-lg-3 col-md-6">
                       <div class="card card-shadow">
                         <a href="database.php" class="service-24"> <i class="fas fa-database fa-3x" style="color:#3e4555"></i>
-                          <h6 class="ser-title">Database Hosting <br>&nbsp;</h6>
+                          <h6 class="ser-title">Database Hosting  <br>(Coming Soon)</h6>
                         </a>
                       </div>
                     </div>
@@ -271,16 +280,7 @@ $page_title = 'Home';
                     <div class="col-lg-3 col-md-6">
                       <div class="card card-shadow">
                         <a href="docker.php" class="service-24"> <i class="fab fa-docker fa-3x" style="color:#3e4555"></i>
-                          <h6 class="ser-title">Docker Container Hosting <br>&nbsp;</h6>
-                        </a>
-                      </div>
-                    </div>
-                    <!-- Column -->
-                    <!-- Column -->
-                    <div class="col-lg-3 col-md-6">
-                      <div class="card card-shadow">
-                        <a href="javascript:void(0)" class="service-24"> <i class="fas fa-server fa-3x" style="color:#3e4555"></i>
-                          <h6 class="ser-title">Dedicated Servers <br>(Coming Soon)</h6>
+                          <h6 class="ser-title">Docker Container Hosting <br>(Coming Soon)</h6>
                         </a>
                       </div>
                     </div>

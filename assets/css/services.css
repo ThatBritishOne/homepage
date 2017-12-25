@@ -79,6 +79,22 @@
     padding: 60px 0; }
 
 /*******************
+Service Page Features Box
+(Standard Features Element for use on service pages)
+*******************/
+
+.wrap-servicepage-features-box .card-body {
+  padding: 30px; }
+
+.wrap-servicepage-features-box .card-body .icon-space {
+  padding: 0px 30px 20px 0px;
+  font-size: 45px;
+  margin: 0px; }
+
+.wrap-servicepage-features-box .card-body p {
+  margin-bottom: 0px; }
+
+/*******************
 Pricing 1
 *******************/
 .pricing1 .card {

@@ -1,5 +1,5 @@
 <?php
-$page_title = 'Database Hosting';
+$page_title = 'Dedicated Servers';
 ?>
 <? include 'header.php'; ?>
 <div class="page-wrapper">
@@ -17,9 +17,10 @@ $page_title = 'Database Hosting';
     <div class="container">
       <div class="row justify-content-center">
           <div class="col-md-7 text-center">
-              <h2 class="title">Coming Soon! <br><br>We're working hard to bring this service to you very soon!</h2>
+              <h2 class="title-alt">Dedicated Servers</h2>
+              <h6 class="subtitle">Go unrestricted with your own machine that is.. well, dedicated to you.</h6>
           </div>
         </div>
       </div>
-    </div>  
+    </div>
 <? include 'footer.php'; ?>

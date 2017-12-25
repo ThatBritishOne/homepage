@@ -53,12 +53,13 @@
                   <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
                     <li class="nav-item active"><a class="nav-link" href="index.php">Home</a></li>
                     <li class="nav-item"><a class="nav-link" href="minecraft.php">Minecraft</a></li>
-                      <li class="nav-item"><a class="nav-link" href="web-hosting.php">Web</a></li>
-                   <li class="nav-item"><a class="nav-link" href="vps.php">VPS</a></li>
-                   <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="h1-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <li class="nav-item"><a class="nav-link" href="web-hosting.php">Web</a></li>
+                    <li class="nav-item"><a class="nav-link" href="vps.php">VPS</a></li>
+                    <li class="nav-item"><a class="nav-link" href="dedicated.php">Dedicated</a></li>
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" href="#" id="h1-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                       More <i class="fa fa-angle-down m-l-5"></i>
-                    </a>
+                      </a>
                     <ul class="b-none dropdown-menu animated fadeInUp">
                         <li><a class="dropdown-item" href="discord-bots.php">Discord Bot Hosting</a></li>
                         <li><a class="dropdown-item" href="database.php">Database Hosting</a></li>

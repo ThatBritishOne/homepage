@@ -13,4 +13,16 @@ $page_title = 'Discord Bot Hosting';
           </div>
       </div>
   </div>
+  <div class="spacer pricingtabs">
+    <div class="container">
+      <div class="row justify-content-center">
+          <div class="col-md-7 text-center">
+              <!-- <h2 class="title-alt">Discord Bot Hosting</h2> -->
+              <h2 class="title">Coming Soon! <br><br>We're working hard to bring this service to you very soon!</h2>
+              <!-- <h6 class="subtitle">We offer an affordable alternative to a VPS for those times when you need to host your Discord Bot!</h6> -->
+          </div>
+        </div>
+      </div>
+    </div>
+<!-- Pricing Table would go here, with a features section following -->
 <? include 'footer.php'; ?>

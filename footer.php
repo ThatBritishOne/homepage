@@ -14,6 +14,7 @@
                 <a href="minecraft.php">Minecraft Hosting</a><br>
                 <a href="web-hosting.php">Web Hosting</a><br>
                 <a href="vps.php">VPS Hosting</a><br>
+                <a href="dedicated.php">Dedicated Servers</a><br>
                 <a href="discord-bots.php">Discord Bot Hosting</a><br>
                 <a href="database.php">Database Hosting</a><br>
                 <a href="docker.php">Docker Container Hosting</a>

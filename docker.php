@@ -13,4 +13,13 @@ $page_title = 'Docker Container Hosting';
           </div>
       </div>
   </div>
+  <div class="spacer pricingtabs">
+    <div class="container">
+      <div class="row justify-content-center">
+          <div class="col-md-7 text-center">
+              <h2 class="title">Coming Soon! <br><br>We're working hard to bring this service to you very soon!</h2>
+          </div>
+        </div>
+      </div>
+    </div>
 <? include 'footer.php'; ?>
